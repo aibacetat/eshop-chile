@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/eshop-chile/static/css/main.b9c91b3c.css",
+    "main.js": "/eshop-chile/static/js/main.fbfe0732.js",
+    "static/media/spinner.jpg": "/eshop-chile/static/media/spinner.afa973eee05e0ebff95a.jpg",
+    "static/media/register.png": "/eshop-chile/static/media/register.c63eced99fcb38972a6c.png",
+    "static/media/forgot.png": "/eshop-chile/static/media/forgot.cfba148d722f088aeddb.png",
+    "static/media/login.png": "/eshop-chile/static/media/login.78ccab5e2cbeadd1d2f2.png",
+    "static/media/loader.gif": "/eshop-chile/static/media/loader.9d11df4bdd0bb34de773.gif",
+    "index.html": "/eshop-chile/index.html",
+    "main.b9c91b3c.css.map": "/eshop-chile/static/css/main.b9c91b3c.css.map",
+    "main.fbfe0732.js.map": "/eshop-chile/static/js/main.fbfe0732.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9c91b3c.css",
+    "static/js/main.fbfe0732.js"
+  ]
+}
